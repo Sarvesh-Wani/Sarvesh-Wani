@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarvesh Wani</h1>
 <h3 align="center">A Passionate Java Developer & Web Enthusiast</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sarvesh-Wani&label=Profile%20views&color=0e75b6&style=flat" alt="Sarvesh Wani" /> </p>
 
 
 - 🔭 I'm currently pursuing B.Tech in Computer Science, set to graduate in 2026.
@@ -43,7 +44,7 @@
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" alt="VS Code" width="40" height="40"/> 
 </a> 
 <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/XAMPP_Logo.png" alt="XAMPP" width="40" height="40"/> 
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/7/7c/XAMPP_Logo.png](https://www.apachefriends.org/images/xampp-logo-ac950edf.svg)" alt="XAMPP" width="40" height="40"/> 
 </a> 
   
 </p>
@@ -59,18 +60,19 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sarvesh-Wani&show_icons=true&locale=en&layout=compact" alt="Sarvesh Wani" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sarvesh-Wani&show_icons=true&locale=en" alt="Sarvesh Wani" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarvesh-Wani&" alt="Sarvesh Wani" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarvesh-Wani&" alt="Sarvesh Wani" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sarvesh-Wani&label=Profile%20views&color=0e75b6&style=flat" alt="Sarvesh Wani" /> </p>
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
   <a href="https://linkedin.com/in/sarvesh-wani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarvesh-wani" height="30" width="40" /></a>
   <a href="https://instagram.com/sarveshwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarveshwani" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/@sarveshwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sarveshwani" height="30" width="40" /></a>
+  
 </p>
 
 
