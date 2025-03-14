@@ -1,8 +1,10 @@
-## Hi there 👋
+# 👋 Hi, I'm Sarvesh Wani!  
+🚀 Web Developer | ☕ Coffee Lover | 📚 Tech Enthusiast  
+
+I love building **modern, responsive websites** and creating **efficient software solutions**.  
+Currently exploring **Java, Spring Boot, and DSA** for placements.  
 
 <!--
-**Sarvesh-Wani/Sarvesh-Wani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
