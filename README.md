@@ -55,10 +55,10 @@
 <h3 align="left">My Coding Profiles:</h3>
 <p align="left">
 
-<a href="https://www.hackerrank.com/sarveshwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sarveshwani" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sarveshwani" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="sarveshwani" height="30" width="30" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sarveshwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sarveshwani" height="30" width="40" /></a>
-<a href="https://leetcode.com/sarveshwani/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png" alt="sarveshwani" height="30"  /></a>
+<a href="https://www.hackerrank.com/sarveshwani7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sarveshwani" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/Sarvesh7604" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="sarveshwani" height="30" width="30" /></a>
+<a href="https://leetcode.com/u/Sarvesh_Wani/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png" alt="sarveshwani" height="30"  /></a>
+
 
 </p>
 
@@ -73,7 +73,7 @@
 <p align="left">
   
   <a href="https://linkedin.com/in/sarvesh-wani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarvesh-wani" height="30" width="40" /></a>
-  <a href="https://instagram.com/sarveshwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarveshwani" height="30" width="40" /></a>
+  <a href="https://instagram.com/sarvesh.wani07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarveshwani" height="30" width="40" /></a>
   
 </p>
 
