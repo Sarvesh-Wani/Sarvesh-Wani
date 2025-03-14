@@ -1,39 +1,60 @@
-# 👋 Hi, I'm Sarvesh Wani  
+<h1 align="center">Hi 👋, I'm Sarvesh Wani</h1>
+<h3 align="center">A Passionate Java Developer & Web Enthusiast</h3>
 
-🚀 **Web Developer | Java Enthusiast | Problem Solver**  
-
-I’m a **Third-Year CSE BTech Student at RCPIT, Shirpur**, passionate about **web development, Java, and DSA**.  
-Currently preparing for **college placements** and building innovative projects.  
-
----
-
-## 🔧 Tech Stack  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sarvesh-Wani&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
-## 🌟 Projects  
-- **☕ [CoffeeEco Website](https://coffeeeco.netlify.app/)** – A modern coffee website  
-- **💼 More projects coming soon!**  
+### 🌱 About Me  
+- 🎓 **Third-Year CSE BTech Student at RCPIT, Shirpur**  
+- 🚀 Exploring **Java, Spring Boot, Web Development & DSA**  
+- 🎯 Preparing for **College Placements**  
+- ⚡ **Fun Fact:** I love coffee ☕ and clean, modern UI designs!  
 
 ---
 
-## 📊 GitHub Stats  
-![Sarvesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarvesh-Wani&show_icons=true&theme=tokyonight)  
+### 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
 ---
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sarvesh-wani)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Sarvesh-Wani)  
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarvesh-Wani&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarvesh-Wani&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-☕ **Fun Fact:** I’m probably drinking coffee while coding! 😄
+---
 
+### 🔥 Projects  
+- 🌐 **[CoffeeEco Website](https://coffeeeco.netlify.app/)** ☕  
+- 🚀 **More projects coming soon!**  
+
+---
+
+### 💬 Let's Connect  
+<p align="center">
+  <a href="https://www.linkedin.com/in/sarvesh-wani" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Sarvesh-Wani" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+⭐ **Thanks for visiting!** 😃  
 
 <!--
 Here are some ideas to get you started:
