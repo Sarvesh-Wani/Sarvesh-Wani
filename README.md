@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C9F3&center=true&width=435&lines=Java+%7C+Spring+Boot+%7C+Web+Development;Problem+Solver+%7C+DSA+Learner;Building+Projects+%26+Preparing+for+Placements" alt="Typing Animation">
 </p>
 
----
+
 
 ### 🌱 About Me  
 - 🎓 **Third-Year CSE BTech Student at RCPIT, Shirpur**  
@@ -18,7 +18,7 @@
 - 🔥 **Passionate about clean & modern UI designs**  
 - ⚡ **Fun Fact:** I love coffee ☕ and problem-solving!  
 
----
+
 
 ### 🛠️ Tech Stack  
 <p align="center">
